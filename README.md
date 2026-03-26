@@ -93,4 +93,20 @@ Example workflow for an agency:
 4. Close 1–2 clients from generated leads
 
 This turns simple data into real revenue opportunities.
+---
+
+##  Expected Output
+
+When running the script with a query like:
+
+`gyms in Delhi`
+
+The tool returns a list of relevant business names extracted from search results, such as:
+
+* FitZone Gym
+* PowerHouse Gym
+* Elite Fitness
+
+This demonstrates how the tool can quickly identify potential leads based on search queries.
+
 
